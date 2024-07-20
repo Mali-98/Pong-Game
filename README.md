@@ -23,7 +23,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Mali-98/Pong-Game.git
+   git clone https://github.com/Mali-98/Python-Pong-Game.git
    ```
 
 2. **Navigate to the Project Directory**:
